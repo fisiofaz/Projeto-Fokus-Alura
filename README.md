@@ -9,7 +9,6 @@
 
 ## Sobre
 
-
 Descrição: Este projeto é resultado do treinamento em desenvolvimento junto com a Alura no projeto Desenvolve da Butacario.
 
 --- 
@@ -19,7 +18,7 @@ Descrição: Este projeto é resultado do treinamento em desenvolvimento junto c
 Foram utilizadas as seguintes tecnologias:
 
 - HTML5
-- CSS3 
+- CSS3
 - JavaScript
 - Figma
 
