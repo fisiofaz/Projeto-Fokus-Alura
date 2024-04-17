@@ -8,7 +8,7 @@
 </h1>
 
 <h1 align="center">
-    <img src=https://github.com/fisiofaz/Projeto-Fokus-Alura/blob/main/imagens/projeto%20pronto%202.png">
+    <img src="https://github.com/fisiofaz/Projeto-Fokus-Alura/blob/main/imagens/projeto%20pronto%202.png">
 </h1>
 
 <h1 align="center">
